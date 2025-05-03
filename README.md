@@ -46,20 +46,6 @@ npm install
 2. *Upload Document*: Document metadata or hashes are generated and stored securely.
 3. *Verify*: Anyone with the document can verify its authenticity by checking against the stored hash and wallet signature.
 
-## 📁 Project Structure Overview
-
-```
-src/
-├── components/        # Reusable React components
-├── pages/             # Main views like Dashboard, Upload, Verify
-├── utils/             # Helper functions and blockchain logic
-├── App.tsx            # Main application wrapper
-├── main.tsx           # React entry point
-tailwind.config.js     # Tailwind CSS config
-vite.config.ts         # Vite config
-```
-
-
 ## 📄 License
 
 This project is for hackathon purposes and does not currently use a formal open-source license.
